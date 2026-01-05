@@ -267,17 +267,9 @@ const ranaAreeb = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/RanaAreeb/RanaAreeb/blob/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/RanaAreeb/RanaAreeb/output/github-contribution-grid-snake.svg)
   
-</div>
-
----
-
-<div align="center">
-  
-  ### ⚡️ GitHub Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaAreeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="450"/>
+  > 💡 **Note:** The snake animation will appear after the GitHub Action runs. You can manually trigger it from the Actions tab.
   
 </div>
 

@@ -17,15 +17,15 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff00
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?color_snake=#00ff00
 
       - name: Push the generated files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/github-contribution-grid-snake.svg
-          git add dist/github-contribution-grid-snake-dark.svg
+          git add output/github-contribution-grid-snake.svg
+          git add output/github-contribution-grid-snake-dark.svg
           git commit -m "Generate contribution snake" || exit 0
           git push
 
