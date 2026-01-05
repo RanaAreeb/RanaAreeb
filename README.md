@@ -161,7 +161,7 @@ const ranaAreeb = {
 - 🤔 I'm looking for help with **Optimizing Real-time Performance**
 - 💬 Ask me about **Web Development, Real-time Apps, Video Chat Systems, or Full Stack**
 - 📫 How to reach me: **[Email](mailto:ranaareeb1029@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rana-areeb-b83161254/) | [Portfolio](https://ranaareeb.netlify.app/)**
-- ⚡ Fun fact: **I enjoy building applications that connect people and solve everyday challenges**
+- ⚡ Fun fact: **I enjoy building applications that connect people and solve everyday challenges.**
 
 ---
 
